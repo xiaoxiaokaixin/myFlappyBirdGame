@@ -1,2 +1,2 @@
 # myFlappyBirdGame
-smallGame01
+一个用纯用h5和js写的经典像素鸟的小游戏
